@@ -1,0 +1,3 @@
+Power BI Desktop
+MySQL Community
+MySQL Workbench 
